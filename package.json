@@ -8,7 +8,7 @@
     "dev": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Deepti",
   "license": "ISC",
   "dependencies": {
     "cookie-parser": "^1.4.6",
